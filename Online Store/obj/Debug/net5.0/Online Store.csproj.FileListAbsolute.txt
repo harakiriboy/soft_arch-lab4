@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Online Store\bin\Debug\net5.0\Online Store.exe
+C:\Users\HP\source\repos\Online Store\bin\Debug\net5.0\Online Store.deps.json
+C:\Users\HP\source\repos\Online Store\bin\Debug\net5.0\Online Store.runtimeconfig.json
+C:\Users\HP\source\repos\Online Store\bin\Debug\net5.0\Online Store.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Online Store\bin\Debug\net5.0\Online Store.dll
+C:\Users\HP\source\repos\Online Store\bin\Debug\net5.0\ref\Online Store.dll
+C:\Users\HP\source\repos\Online Store\bin\Debug\net5.0\Online Store.pdb
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\Online Store.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\Online Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\Online Store.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\Online Store.AssemblyInfo.cs
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\Online Store.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\Online Store.dll
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\ref\Online Store.dll
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\Online Store.pdb
+C:\Users\HP\source\repos\Online Store\obj\Debug\net5.0\Online Store.genruntimeconfig.cache
